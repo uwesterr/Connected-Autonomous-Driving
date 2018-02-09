@@ -2,8 +2,7 @@
 ## Material for feb 2018 meet up
 
 
--  You can donwload the  [mind map pdf file](mindMap.jpg), all the links in the mind map work if you click them
- [VHS Esslingen](mindMap.jpg)
+-  You can donwload the  [mind map pdf file](mindMap.jpg), all the links in the mind map work if you click them.
  
  -  If you want to play with [open ai gym] (https://gym.openai.com/envs/) you can [download the pyhton script ](cartpole.py)
  
