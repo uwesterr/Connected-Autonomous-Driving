@@ -1,3 +1,5 @@
+github:
+  is_project_page: false
 theme: jekyll-theme-cayman
 title: Optimized Reinforced Learning 
 description: Optimization of reinforcement learning hyper parameter using simulated annealing
