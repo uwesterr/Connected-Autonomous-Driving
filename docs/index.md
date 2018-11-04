@@ -9,7 +9,7 @@ To determine the best policy for a system reinforced learning (RL) can be applie
 
 As for most machine learing algorithms choosing the hyper parameters is not very intuitive. However, wrapping the reinforcement learning by a simulated annealing loop the ideal combination can be determined.
 
-![MacDown Screenshot](images/rlConcept.png)
+![MacDown Screenshot](images/rlConceptII.png)
 
 
 
