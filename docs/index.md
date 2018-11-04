@@ -1,4 +1,4 @@
-# Tuning reinforcement learning hyper parameters using simulated annealing
+ Tuning reinforcement learning hyper parameters using simulated annealing
 
 To determine the best policy for a system reinforced learning (RL) can be applied, necessary input data is:
 
