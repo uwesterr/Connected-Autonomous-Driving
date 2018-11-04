@@ -1,5 +1,5 @@
 github:
   is_project_page: false
 theme: jekyll-theme-cayman
-title: Tuning Reinforcement Learning hyper parameters using simulated annealing 
-description:   
+title: Simulated Annealing tuning of Reinforcement Learning hyper parameters
+description: A principle solution in R
