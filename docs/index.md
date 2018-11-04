@@ -83,12 +83,10 @@ The definition of the parameters are given below.
 
 ### ReinforcementLearning  
 
-For reinforcement learning **ReinforcementLearning**  
+For reinforcement learning **[ReinforcementLearning](https://cran.r-project.org/web/packages/ReinforcementLearning/index.html)**  
 Performs model-free reinforcement learning in R. This implementation enables the learning
 of an optimal policy based on sample sequences consisting of states, actions and rewards. In addition, it supplies multiple predefined reinforcement learning algorithms, such as experience replay.
 
 ### GenSa
-For simmulated annealing **GenSa**  
+For simmulated annealing **[GenSa](https://cran.r-project.org/web/packages/GenSA/index.html)**  
 Implementation of a function that searches for global minimum of a very complex non-linear ob- jective function with a very large number of optima.
-
-
