@@ -1,5 +1,5 @@
 ## Introduction
-In the following an example for a hyper parameter optimization for a Reinforced Learning (RL) model is presented. The optimization is performed applying simulated annealing. Code snippets illustrate how an implementation in R looks like, however, the concept could be easily implemented in other programming languages.
+In the following an example for a hyper parameter optimization for a Reinforcement Learning (RL) model is presented. The optimization is performed applying simulated annealing. Code snippets illustrate how an implementation in R looks like, however, the concept could be easily implemented in other programming languages.
 
 The best policy for a system can be found by RL. Necessary input data are:
 
@@ -25,7 +25,7 @@ SimulationData <- Sim(dataFile, iterations, trainFlag, colNames)
 
 The trainings data and the actions are the inputs of the RL algorithm which is part of the function **optFunc** in which
 
-- reinforced learning model RlModel is calculated
+- Reinforcement Learning model RlModel is calculated
 - The policy of RlModel is applied in the simulation 
 - The metric **rlModelResult** is calculated
 
