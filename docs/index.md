@@ -1,7 +1,7 @@
 ## Introduction
 In the following an example for a hyper parameter optimization for a Reinforcement Learning (RL) model is presented. The optimization is performed applying simulated annealing. Code snippets illustrate how an implementation in R looks like, however, the concept could be easily implemented in other programming languages.
 
-The best policy for a system can be found by RL. Necessary input data are:
+The best policy for a system can be found by RL. Necessary input data are: 
 
 - state
 - action
