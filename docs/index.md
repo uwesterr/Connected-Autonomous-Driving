@@ -10,7 +10,7 @@ The best policy for a system can be found by RL. Necessary input data are:
 
 As for most machine learning algorithms choosing the hyper parameters is not very intuitive. However, wrapping the reinforcement learning by a simulated annealing loop the ideal combination can be determined.
 
-![MacDown Screenshot](images/rlConceptII.png)
+![MacDown Screenshot](images/rlConceptII.png) 
 
 ## Create trainings data
 
@@ -97,4 +97,4 @@ of an optimal policy based on sample sequences consisting of states, actions and
 
 ### GenSa
 For simmulated annealing **[GenSa](https://cran.r-project.org/web/packages/GenSA/index.html)**  
-Implementation of a function that searches for global minimum of a very complex non-linear objective function with a very large number of optima.
+Implementation of a function that searches for global minimum of a very complex non-linear objective function with a very large number of optima. 
